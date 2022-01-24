@@ -1,2 +1,3 @@
 # hitblow.exe
-![C__Users_ranrun_source_repos_ConsoleApplication1_x64_Release_HitBlow exe 2022-01-24 03-59-25_2](https://user-images.githubusercontent.com/28826492/150791464-1c28fdb1-7850-4ed1-8cf9-6ec0c7e15606.gif)
+![hitblow](https://user-images.githubusercontent.com/28826492/150795001-46ee0957-3450-418b-87a2-56c30c01450d.gif)
+
